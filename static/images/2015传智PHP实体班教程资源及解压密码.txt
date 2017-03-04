@@ -1,0 +1,23 @@
+========================
+内容
+01php核心编程、MySQL数据库
+02中级项目
+03XML编程
+04Smarty
+05ThinkPHP框架
+06javascript巩固加强
+07ajax
+08jquery
+09linux(LAMP)
+10svn版本控制
+11Redis
+12大型门户网站核心技术
+13ThinkPHP框架加强
+14电子商城项目
+15sphinx、mongod
+16lnmp
+17dedecms
+18微信接口开发
+19discuz
+==========================
+链接: http://pan.baidu.com/s/1c0Wa56g 提取密码: ikdg 解压密码:2cifang.com
